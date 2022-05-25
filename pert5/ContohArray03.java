@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class ContohArray03{
     public static void main(String []args){
         int data[]=new int[7];
-        int namaHari[]=new String[7];
+        String namaHari[]=new String[7];
         namaHari[0]=new String("Senin");
 
         int total=0;
