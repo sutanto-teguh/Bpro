@@ -26,6 +26,9 @@ public class ContohMethod01 {
      * @param kata
      */
     public static void cetakBanner(String kata) {
-        
+        int panjangGaris = kata.length()+4;
+        cetakGaris(panjangGaris);
+        System.out.println("* "+kata+" *");
+        cetakGaris(panjangGaris);
     }
 }
