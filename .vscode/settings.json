@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "pert8",
         "pert5",
-        "pert8"
+        "pert9"
     ]
 }
